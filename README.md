@@ -1,3 +1,17 @@
 # Pawns-Only-Chess
 
-![image]( Screenshot 2023-04-02 191914.png)
+![Alt text](../../../../../Users/pante/OneDrive/Pictures/Screenshots/first_picture.png)
+![Alt text](../../../../../Users/pante/OneDrive/Pictures/Screenshots/Screenshot%202023-04-02%20180044.png)
+![Alt text](../../../../../Users/pante/OneDrive/Pictures/Screenshots/Screenshot%202023-04-02%20180108.png)
+![Alt text](../../../../../Users/pante/OneDrive/Pictures/Screenshots/Screenshot%202023-04-02%20180132.png)
+![Alt text](../../../../../Users/pante/OneDrive/Pictures/Screenshots/Screenshot%202023-04-02%20180155.png)
+![Alt text](../../../../../Users/pante/OneDrive/Pictures/Screenshots/Screenshot%202023-04-02%20193140.png)
+![Alt text](../../../../../Users/pante/OneDrive/Pictures/Screenshots/Screenshot%202023-04-02%20180237.png)
+![Alt text](../../../../../Users/pante/OneDrive/Pictures/Screenshots/Screenshot%202023-04-02%20180252.png)
+![Alt text](../../../../../Users/pante/OneDrive/Pictures/Screenshots/Screenshot%202023-04-02%20180304.png)
+![Alt text](../../../../../Users/pante/OneDrive/Pictures/Screenshots/Screenshot%202023-04-02%20180321.png)
+![Alt text](../../../../../Users/pante/OneDrive/Pictures/Screenshots/Screenshot%202023-04-02%20180348.png)
+![Alt text](../../../../../Users/pante/OneDrive/Pictures/Screenshots/Screenshot%202023-04-02%20180403.png)
+![Alt text](../../../../../Users/pante/OneDrive/Pictures/Screenshots/Screenshot%202023-04-02%20180415.png)
+![Alt text](../../../../../Users/pante/OneDrive/Pictures/Screenshots/Screenshot%202023-04-02%20180427.png)
+![Alt text](../../../../../Users/pante/OneDrive/Pictures/Screenshots/Screenshot%202023-04-02%20180444.png)
